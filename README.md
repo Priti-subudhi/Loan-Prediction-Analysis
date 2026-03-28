@@ -1,4 +1,9 @@
 # 🏦 Loan Prediction – Machine Learning Project
+## 📊 Dashboard Preview
+
+![Loan Prediction Dashboard](Loan_prediction_analysis_dashboard.png)
+```
+
 
 A binary classification machine learning project that predicts whether a loan application will be **approved or rejected**, based on applicant demographics, financial profile, and credit history. Built using **Logistic Regression** on a dataset of **614 historical loan records**, the model achieves **78.86% accuracy** with strong approval detection (98.75% recall). A **Power BI dashboard** (`Loan_prediction.pbix`) complements the model with interactive visual analytics for business stakeholders.
 
